@@ -1,12 +1,12 @@
-<div align="center">
-  <img height="200" src="https://i.scdn.co/image/ab67616d00001e02c063593543101e08bcc6f59a"  />
-</div>
-
 ###
 
 <h1 align="center">hey there 👋</h1>
 
 ###
+
+<div align="center">
+  <img height="200" src="https://i.scdn.co/image/ab67616d00001e02c063593543101e08bcc6f59a"  />
+</div>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
