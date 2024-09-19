@@ -67,7 +67,7 @@
   <a href="https://www.instagram.com/naranjo_sw" target="instagram">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
-  <a href="(https://wa.link/m8f3eg" target="watthsap">
+  <a href="https://wa.link/m8f3eg" target="watthsap">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
   </a>
 </div>
