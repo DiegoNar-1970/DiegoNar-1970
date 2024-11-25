@@ -35,20 +35,19 @@
  * Represents me.
  *
  * @constructor
- * @param {string} location - Gondia, Maharashtra, India.
- * @param {string} languagues - English, Hindi, Marathi.
+ * @param {string} location - Pereira, Colombia
+ * @param {string} languagues - English, Spanish
  * @param {string} jobTitle - Software Engineer.
- * @param {string} specialization - Building full-fledged Backend systems and iOS applications.
+ * @param {string} specialization - Web Apps FullStack and Movile Develop.
  * @param {string} interests - AI, Distributed Systems & problem-solving.
- * @param {string} hobbies - Trekking, Reading, gaming & playing music.
- * @param {string} education - BTech Computer Engineering, Viswakarma Institute of Technology, Pune.
- * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
- * @param {string} stength - Resolute.
- * @param {string} weakness - Shyness.
+ * @param {string} hobbies - Learn, gaming & Gym.
+ * @param {string} education - Computer Engineer, Universidad de Caldas, Colombia
+ * @param {string} approachable - Yes, to collaborate on existing projects, don't hesitate contact me
+ * @param {string} stength - Discipline.
+ * @param {string} weakness - Perfectionist.
  *
- * @throws {Punch} To any and all bugs.
  *
- * @returns {Object} Kartik.
+ * @returns {Object} Diego.
  */
 ```
 
