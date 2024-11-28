@@ -46,7 +46,6 @@
  * @param {string} stength - Discipline.
  * @param {string} weakness - Perfectionist.
  *
- *
  * @returns {Object} Diego.
  */
 ```
